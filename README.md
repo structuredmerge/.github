@@ -1,0 +1,2 @@
+# .github
+StructuredMerge Org
