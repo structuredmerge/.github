@@ -7,7 +7,7 @@
 ## 🌈 Contribution Guidelines
   - [ILO Fundamental Principles](https://www.ilo.org/resource/conference-paper/ilo-1998-declaration-fundamental-principles-and-rights-work-and-its-follow)
   - [Contributor Covenant](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
-  - This project is dual-licensed under [AGPL-3.0-only](https://spdx.org/licenses/AGPL-3.0-only.html) and [PolyForm-Small-Business-1.0.0](https://spdx.org/licenses/PolyForm-Small-Business-1.0.0.html), so you can pick whichever suits you best.
+  - This project is dual-licensed under [AGPL-3.0-only](https://spdx.org/licenses/AGPL-3.0-only.html) and [PolyForm-Small-Business-1.0.0](https://spdx.org/licenses/PolyForm-Small-Business-1.0.0.html), so users can pick whichever suits them best.
 
 ## 👩‍💻 Resources
 
