@@ -12,6 +12,7 @@
 ## 👩‍💻 Resources
 
 - [Go](https://github.com/structuredmerge/structuredmerge-go) implementation
+- [Ruby](https://github.com/structuredmerge/structuredmerge-ruby) implementation
 - [Rust](https://github.com/structuredmerge/structuredmerge-rust) implementation
 - [Typescript](https://github.com/structuredmerge/structuredmerge-typescript) implementation
 - [spec](https://github.com/structuredmerge/structuredmerge-spec) contains the [MERGE_RULESET_INFORMATIONAL_DRAFT_01.md](https://github.com/structuredmerge/structuredmerge-spec/blob/main/MERGE_RULESET_INFORMATIONAL_DRAFT_01.md) among other bits
