@@ -1,6 +1,6 @@
 💠 So what's this then? A project to define a common language for merge rules. See the [Announcement Discussion](https://github.com/orgs/structuredmerge/discussions/1)
 
-🙋‍♀️ Currently we are @pboling, @afstanton, and @aboling0. If you are interested in document merge semantics or ASTs we'd love your assistance!
+🙋‍♀️ Currently we are just a few people / nerds. If you are interested in document merge semantics or ASTs we'd love your assistance!
 
 🐪 This is the first project of its kind we are aware of! If you know of prior art we would love to hear about it.
 
