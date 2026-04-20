@@ -2,7 +2,7 @@
 
 🙋‍♀️ Currently we are just a few people / nerds. If you are interested in document merge semantics or ASTs we'd love your assistance!
 
-🐪 This is the first project of its kind we are aware of! If you know of prior art we would love to hear about it.
+🐪 This is the first open source project of its kind we are aware of! If you know of prior art we would love to hear about it.
 
 ## 🌈 Contribution Guidelines
   - [ILO Fundamental Principles](https://www.ilo.org/resource/conference-paper/ilo-1998-declaration-fundamental-principles-and-rights-work-and-its-follow)
