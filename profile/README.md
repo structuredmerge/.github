@@ -14,5 +14,5 @@
 - [Go](https://github.com/structuredmerge/structuredmerge-go) implementation
 - [Rust](https://github.com/structuredmerge/structuredmerge-rust) implementation
 - [Typescript](https://github.com/structuredmerge/structuredmerge-typescript) implementation
-- The [spec](https://github.com/structuredmerge/structuredmerge-spec) project contains some useful bits, but most importantly the [MERGE_RULESET_INFORMATIONAL_DRAFT_01.md](https://github.com/structuredmerge/structuredmerge-spec/blob/main/MERGE_RULESET_INFORMATIONAL_DRAFT_01.md)
-- the [fixtures](https://github.com/structuredmerge/structuredmerge-fixtures) project contains a set of baseline fixtures that any merge tool implementing the spec can validate against.
+- [spec](https://github.com/structuredmerge/structuredmerge-spec) contains the [MERGE_RULESET_INFORMATIONAL_DRAFT_01.md](https://github.com/structuredmerge/structuredmerge-spec/blob/main/MERGE_RULESET_INFORMATIONAL_DRAFT_01.md) among other bits
+- [fixtures](https://github.com/structuredmerge/structuredmerge-fixtures) contains baseline fixtures that any merge tool implementing the spec can validate against
