@@ -15,6 +15,6 @@
 - [Ruby](https://github.com/structuredmerge/structuredmerge-ruby) implementation
 - [Rust](https://github.com/structuredmerge/structuredmerge-rust) implementation
 - [Typescript](https://github.com/structuredmerge/structuredmerge-typescript) implementation
-- [spec](https://github.com/structuredmerge/structuredmerge-spec) contains the [MERGE_RULESET_INFORMATIONAL_DRAFT_01.md](https://github.com/structuredmerge/structuredmerge-spec/blob/main/MERGE_RULESET_INFORMATIONAL_DRAFT_01.md) among other bits
+- [spec](https://github.com/structuredmerge/structuredmerge-spec) contains the latest [MERGE_RULESET_INFORMATIONAL_DRAFT_02.md](https://github.com/structuredmerge/structuredmerge-spec/blob/main/MERGE_RULESET_INFORMATIONAL_DRAFT_02.md) among other bits
 - [fixtures](https://github.com/structuredmerge/structuredmerge-fixtures) contains baseline fixtures that any merge tool implementing the spec can validate against
 - This project is dual-licensed under [AGPL-3.0-only](https://spdx.org/licenses/AGPL-3.0-only.html) and [PolyForm-Small-Business-1.0.0](https://spdx.org/licenses/PolyForm-Small-Business-1.0.0.html), so pick whichever suits you best, or contact `info@structuredmerge.org` to request a license exception.
