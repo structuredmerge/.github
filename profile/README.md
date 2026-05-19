@@ -1,8 +1,12 @@
-💠 So what's this then? A project to define a common language for merge rules. See the [Announcement Discussion](https://github.com/orgs/structuredmerge/discussions/1)
+# 💠 So what's this then?
+
+- A project to define a common language for merge rules. See the [Announcement Discussion](https://github.com/orgs/structuredmerge/discussions/1)
+- Implementations of the merge rules contract across multiple languages
+- Support for template merges (2-way) and git merges (3-way)
 
 🙋‍♀️ Currently we are just a few people / nerds. If you are interested in document merge semantics or ASTs we'd love your assistance!
 
-🐪 This is the first open source project of its kind we are aware of! If you know of prior art we would love to hear about it.
+🐪 This is the first open source project of its kind (meaning specifically: an attempt to draft a spec for merge language vocabulary and build compliant implementations across multuiple languages) we are aware of! If you know of prior art we would love to hear about it.
 
 ## 🌈 Contribution Guidelines
 
