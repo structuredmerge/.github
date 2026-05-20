@@ -6,12 +6,21 @@
 
 🙋‍♀️ Currently we are just a few people / nerds. If you are interested in document merge semantics or ASTs we'd love your assistance!
 
-🐪 This is the first open source project of its kind (meaning specifically: an attempt to draft a spec for merge language vocabulary and build compliant implementations across multuiple languages) we are aware of! If you know of prior art we would love to hear about it. Things we've heard about that are similar in some ways:
+🐪 This is the first open source project of its kind (meaning specifically: an attempt to draft a spec for merge language vocabulary and build compliant implementations across multuiple languages) we are aware of! If you know of prior art we would love to hear about it.
+
+<details>
+<summary>
+Prior/Contemporaneous Art  
+</summary>
+
+Things we've heard about that are similar in some ways:
 
 - [difftastic](https://difftastic.wilfred.me.uk/) - structural diff tool, parses with tree-sitter, compares syntax aware structure, and renders human oriented diffs. Does not generate patches, or perform merges.
 - [mergiraf](https://mergiraf.org/) - syntax-aware git merge driver implemented in Rust. Uses tree-sitter, and implements a fine-grained, 3DM-inspired, 3-way merge.
 - [spork](https://github.com/ASSERT-KTH/spork) - AST-based merges in Java, based on the research paper `arXiv-2202.05329v1`. 3DM-derived merge over PCS/change-set structures, with custom conflict handling, formatting-aware printing, and git compatibility mode.
 - [weave](https://ataraxy-labs.github.io/weave/) - entity-level semantic merge driver implemented in Rust, based on tree-sitter, which falls back to line-merge within multi-line entity spans.
+  
+</details>
 
 ## 🌈 Contribution Guidelines
 
