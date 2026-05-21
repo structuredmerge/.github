@@ -1,13 +1,13 @@
-[![structuredmerge Logo by Aboling0, CC BY-SA 4.0][🖼️structuredmerge-i]][🖼️structuredmerge]
-
-[🖼️structuredmerge-i]: https://logos.galtzo.com/assets/images/structuredmerge/avatar-192px.svg
-[🖼️structuredmerge]: https://structuredmerge.org
-
 # 💠 Structured Merge
+
+<a href="https://structuredmerge.org">
+<img alt="structuredmerge Logo by Aboling0, CC BY-SA 4.0" align="right" width="192" height="192" hspace="30" src="https://logos.galtzo.com/assets/images/structuredmerge/avatar-192px.svg">
+</a>
 
 - A project to define a common language for merge rules. See the [Announcement Discussion](https://github.com/orgs/structuredmerge/discussions/1)
 - Implementations of the merge rules contract across multiple languages
 - Support for template merges (2-way) and git merges (3-way)
+- Find out more at [StructuredMerge.org](https://structuredmerge.org)
 
 🙋‍♀️ Currently we are just a few people / nerds. If you are interested in document merge semantics or ASTs we'd love your assistance!
 
