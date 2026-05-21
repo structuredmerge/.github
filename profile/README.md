@@ -1,4 +1,9 @@
-# 💠 So what's this then?
+[![structuredmerge Logo by Aboling0, CC BY-SA 4.0][🖼️structuredmerge-i]][🖼️structuredmerge]
+
+[🖼️structuredmerge-i]: https://logos.galtzo.com/assets/images/structuredmerge/avatar-192px.svg
+[🖼️structuredmerge]: https://structuredmerge.org
+
+# 💠 Structured Merge
 
 - A project to define a common language for merge rules. See the [Announcement Discussion](https://github.com/orgs/structuredmerge/discussions/1)
 - Implementations of the merge rules contract across multiple languages
