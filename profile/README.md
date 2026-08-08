@@ -11,7 +11,7 @@ Structured Merge defines a common language for semantic merge rules, with implem
 
 - Specification-first merge vocabulary and compatibility fixtures
 - Parser-backed template merges and git merges
-- Ruby tooling for AST-aware templating and project maintenance
+- Tooling for AST-aware templating and project maintenance
 - Find out more at [StructuredMerge.org](https://structuredmerge.org)
 
 ## Community And Support
